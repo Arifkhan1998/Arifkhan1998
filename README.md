@@ -1,7 +1,7 @@
-### Hi I am ARIFUL ISLAM 👋
-Computer Science Engineer
+# Hi I am ARIFUL ISLAM 👋
+###Computer Science Engineer
 
-Love to explore new technology and yes big fan of Computer Science.
+##Love to explore new technology and yes big fan of Computer Science.
 
 **Arifkhan1998/Arifkhan1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
