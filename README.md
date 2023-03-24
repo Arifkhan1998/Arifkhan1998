@@ -5,8 +5,9 @@
 To be able to work for an encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best engineer possible.
 
 
-Skills:  C / C++ / HTML / CSS / PHP / JS / MY SQL
+Skills:  C / C++ / PHP / JAVA / JS / HTML / CSS / MY SQL
 
+- 👨🏻‍🎓 Graduated in Computer Science and Engineering from American International University Bangladesh (AIUB) .
 - 🌱 I’m currently learning JS / CSS . 
 - 👯 I’m looking to collaborate on Github . 
 - 📫 How to reach me: arifulislam018366@gmail.com 
