@@ -2,6 +2,7 @@
 ## Computer Science Engineer
 ![Computer Science Engineer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/335899864_748226526821934_1878374304573688581_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGU9Lk-86oFa1WQDPTKBJG77eH0J0vzNOvt4fQnS_M06zVpbw8n5-nv-1pjU7mCAGCBna9OQ8YgtQvCDwjXC_aA&_nc_ohc=ilRx34hCbXUAX8j4BDZ&_nc_ht=scontent.fdac151-1.fna&oh=00_AfBrHtBmmx0I-nL0Pc6hg3djrF1piBUu08XA3BrCJz8f9g&oe=6421B6E1)
 
+Hello there. I'm Ariful islam, Love to explore new technology💕👨🏻‍💻. I believe anyone can achieve their desired goal with proper dedication and hard work. My strong skills are being a hard-working, positive, lifetime learner.
 To be able to work for an encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best engineer possible.
 
 
@@ -9,7 +10,7 @@ Skills:  C / C++ / PHP / JAVA / JS / HTML / CSS / MY SQL .
 
 - 👨🏻‍🎓 Graduated in Computer Science and Engineering from American International University-Bangladesh (AIUB) .
 - 🌱 I’m currently learning JS / CSS . 
-- 🫱🏻‍🫲🏼 I’m looking to collaborate on Apple . 
+- 🤝🏻 I’m looking to collaborate on Apple . 
 - 📬 How to reach me: arifulislam018366@gmail.com 
 - ⚡ Fun fact: Love to play any kind of sports . 
 
