@@ -10,7 +10,7 @@ Skills:  C / C++ / PYTHON / PHP / JAVA / JS / HTML / CSS / MY SQL .
 
 - 👨🏻‍🎓 Graduated in Computer Science and Engineering from American International University-Bangladesh (AIUB) .
 - 🌱 I’m currently learning JS / CSS . 
-- 🤝🏻  I’m looking to collaborate on Apple . 
+- 🤝🏻 I’m looking to collaborate on Apple . 
 - 📬 How to reach me: arifulislam018366@gmail.com 
 - ⚡ Fun fact: Love to play any kind of sports . 
 
