@@ -29,7 +29,10 @@ Skills:  C / C++ / PYTHON / PHP / JAVA / JS / HTML / CSS / MY SQL .
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arifkhan1998&show_icons=true&count_private=true)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arifkhan1998)  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arifkhan1998)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/Arifkhan1998)  
 
